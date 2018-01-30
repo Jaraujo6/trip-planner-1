@@ -1,0 +1,1 @@
+console.log('domnik is the man');
